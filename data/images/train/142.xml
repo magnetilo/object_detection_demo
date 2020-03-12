@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>142.png</filename>
+	<path>C:\Users\geoimpactadmin\ML-Projects\object_detection_demo\data\images\142.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>195</ymin>
+			<xmax>241</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
